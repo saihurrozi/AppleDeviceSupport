@@ -31,6 +31,15 @@ IOS 14.2 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main
 IOS 14.1 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/14.1.zip)  
 IOS 14.0 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/14.0.zip)  
 
+**IOS 13 :**
+IOS 13.7 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/13.7.zip)  
+IOS 13.6 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/13.6.zip)  
+IOS 13.5 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/13.5.zip)  
+IOS 13.4 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/13.4.zip)  
+IOS 13.3 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/13.3.zip)  
+IOS 13.2 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/13.2.zip)  
+IOS 13.1 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/13.1.zip)  
+IOS 13.0 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/13.0.zip)  
 
 **How to:**  
   1. Download version you need listed above;
