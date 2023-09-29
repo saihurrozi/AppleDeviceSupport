@@ -36,11 +36,10 @@ IOS 14.0 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main
   1. Download version you need listed above;
   2. Unzip it;
   3. Close Xcode;
-  4. Copy and paste unziped folder by path: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport/
-
-hierarchy like this:
+  4. Copy and paste unziped folder by path:  
+     
+    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport/  
 ![image](https://github.com/saihurrozi/AppleDeviceSupport/assets/15244248/bfd45ec9-1d8f-48d9-81a4-fea4597b96d6)
-
 
   5. Disconnect any physical target device (iPhone, iPad, etc.)
   6. Reopen Xcode;
