@@ -74,6 +74,10 @@ IOS 8.2 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/
 IOS 8.1 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/8.1.zip)  
 IOS 8.0 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/8.0.zip)  
 
+**IOS 7 :**  
+IOS 7.1 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/7.1.zip)  
+IOS 7.0 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/7.0.zip)  
+
 
 **How to:**  
   1. Download version you need listed above;
