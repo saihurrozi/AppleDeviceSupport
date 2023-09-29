@@ -48,6 +48,13 @@ IOS 12.2 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main
 IOS 12.1 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/12.1.zip)  
 IOS 12.0 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/12.0.zip)  
 
+**IOS 11 :**
+IOS 11.4 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/11.4.zip)  
+IOS 11.3 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/11.3.zip)  
+IOS 11.2 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/11.2.zip)  
+IOS 11.1 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/11.1.zip)  
+IOS 11.0 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/11.0.zip)  
+
 
 **How to:**  
   1. Download version you need listed above;
