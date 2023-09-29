@@ -10,7 +10,7 @@ IOS 16.2 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main
 IOS 16.1 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/16.1.zip)  
 IOS 16.0 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/16.0.zip)  
 
-**IOS 15 :**
+**IOS 15 :**  
 IOS 15.7 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/15.7.zip)  
 IOS 15.6 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/15.6.zip)  
 IOS 15.5 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/15.5.zip)  
@@ -20,7 +20,7 @@ IOS 15.2 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main
 IOS 15.1 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/15.1.zip)  
 IOS 15.0 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/15.0.zip)  
 
-**IOS 14 :**
+**IOS 14 :**  
 IOS 14.8 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/14.8.zip)  
 IOS 14.7 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/14.7.zip)  
 IOS 14.6 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/14.6.zip)  
@@ -31,7 +31,7 @@ IOS 14.2 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main
 IOS 14.1 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/14.1.zip)  
 IOS 14.0 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/14.0.zip)  
 
-**IOS 13 :**
+**IOS 13 :**  
 IOS 13.7 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/13.7.zip)  
 IOS 13.6 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/13.6.zip)  
 IOS 13.5 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/13.5.zip)  
@@ -41,19 +41,25 @@ IOS 13.2 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main
 IOS 13.1 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/13.1.zip)  
 IOS 13.0 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/13.0.zip)  
 
-**IOS 12 :**
+**IOS 12 :**  
 IOS 12.4 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/12.4.zip)  
 IOS 12.3 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/12.3.zip)  
 IOS 12.2 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/12.2.zip)  
 IOS 12.1 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/12.1.zip)  
 IOS 12.0 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/12.0.zip)  
 
-**IOS 11 :**
+**IOS 11 :**  
 IOS 11.4 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/11.4.zip)  
 IOS 11.3 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/11.3.zip)  
 IOS 11.2 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/11.2.zip)  
 IOS 11.1 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/11.1.zip)  
 IOS 11.0 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/11.0.zip)  
+
+**IOS 10 :**  
+IOS 10.3 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/10.3.zip)  
+IOS 10.2 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/10.2.zip)  
+IOS 10.1 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/10.1.zip)  
+IOS 10.0 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/10.0.zip)  
 
 
 **How to:**  
