@@ -67,6 +67,13 @@ IOS 9.2 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/
 IOS 9.1 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/9.1.zip)  
 IOS 9.0 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/9.0.zip)  
 
+**IOS 8 :**  
+IOS 8.4 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/8.4.zip)  
+IOS 8.3 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/8.3.zip)  
+IOS 8.2 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/8.2.zip)  
+IOS 8.1 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/8.1.zip)  
+IOS 8.0 - [Download](https://github.com/saihurrozi/AppleDeviceSupport/blob/main/iOSDeviceSupport/8.0.zip)  
+
 
 **How to:**  
   1. Download version you need listed above;
